@@ -1,0 +1,29 @@
+_repo: Kansanopistosta-ja-kansanopiston-ymparistoilta_65469
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Soini, Lauri
+    aliases:
+    - Soininen, L.
+    - Sauramo, Lauri
+    - Ahava, Juho
+    birthdate: 1875
+    deathdate: 1919
+    gutenberg_agent_id: '42573'
+    url: http://www.gutenberg.org/2009/agents/42573
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Lauri_Soininen
+    - https://fi.wikipedia.org/wiki/Lauri_Soini
+description: ''
+gutenberg_issued: '2021-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65469'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kansanopistosta ja kansanopiston ympäristöiltä
+url: http://www.gutenberg.org/ebooks/65469
